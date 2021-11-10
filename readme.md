@@ -1,4 +1,4 @@
-User Instructions
+### Script Instructions
 
 Before the program can be run the user must have the Anaconda IDE installed:
 -	Download and install from: https://anaconda.org/anaconda/spyder
